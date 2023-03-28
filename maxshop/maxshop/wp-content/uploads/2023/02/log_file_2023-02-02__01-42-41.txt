@@ -1,0 +1,195 @@
+
+---Downloaded files---
+The import files for: Home 1 were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://shop1e.com
+Data file = /home/shopecom/domains/shop1e.com/public_html/wp-content/themes/sw_maxshop/lib/import/demo-1/data.xml
+Widget file = /home/shopecom/domains/shop1e.com/public_html/wp-content/themes/sw_maxshop/lib/import/demo-1/widgets.json
+Customizer file = not defined!
+Options files:
+maxshop_theme -> /home/shopecom/domains/shop1e.com/public_html/wp-content/themes/sw_maxshop/lib/import/demo-1/theme_options.txt 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Left Blog : 
+
+Chuyên mục - Blog Categories - Imported
+SW best seller products - Best Sellers - Imported
+Văn bản - No Title - Imported
+
+Sidebar Right Blog : 
+
+Chuyên mục - Blog Categories - Imported
+SW best seller products - Best Sellers - Imported
+Văn bản - No Title - Imported
+
+Top : 
+
+WooCommerce Currency Converter - No Title - Imported
+Văn bản - No Title - Imported
+Menu - No Title - Imported
+SW Top Widget - No Title - Imported
+SW Posts - No Title - Imported
+
+Sidebar Left Detail Product : 
+
+SW related products - Related products - Imported
+Product Tag Cloud - Product Tags - Imported
+Văn bản - No Title - Imported
+
+Sidebar Right Detail Product : 
+
+SW related products - Related products - Imported
+Product Tag Cloud - POPULAR TAGS - Imported
+Văn bản - No Title - Imported
+
+Sidebar Bottom Detail Product : 
+
+Sw Woocommerce Related &amp; Upsell Slider widget - No Title - Imported
+
+Sidebar Left Product : 
+
+Filter Products by Price - price - Imported
+Filter Products by Attribute - Color - Imported
+Filter Products by Attribute - Size - Imported
+SW best seller products - Best Sellers - Imported
+Văn bản - No Title - Imported
+
+Sidebar Right Product : 
+
+SW related products - No Title - Imported
+Filter Products by Price - price - Imported
+SW best seller products - Best Sellers - Imported
+Sw Testimonial Slider widget - Testimonial - Imported
+Văn bản - No Title - Imported
+
+Above Footer : 
+
+Văn bản - No Title - Imported
+
+Footer : 
+
+Văn bản - No Title - Imported
+Menu - MY ACCOUNT - Imported
+Menu - INFORMATION - Imported
+Văn bản - CONTACT US - Imported
+
+Footer Style 8 : 
+
+Menu - No Title - Imported
+Văn bản - No Title - Imported
+
+Footer Copyright 8 : 
+
+Văn bản - No Title - Imported
+
+Banner Style 9 : 
+
+Image Widget - No Title - Imported
+
+Footer Style 9 Left : 
+
+Văn bản - CONTACT US - Imported
+
+Footer Style 9 Right1 : 
+
+Sw Testimonial Slider widget - TESTIMONIAL - Imported
+
+Footer Style 9 Right2 : 
+
+Menu - MY ACCOUNT - Imported
+Menu - INFORMATION - Imported
+Menu - HOW TO BUY - Imported
+
+Footer Copyright 9 : 
+
+Văn bản - No Title - Imported
+Văn bản - No Title - Imported
+
+Filter Mobile : 
+
+Filter Products by Attribute - Color - Imported
+Filter Products by Attribute - Size - Imported
+Filter Products by Price - Price - Imported
+
+Widget Search : 
+
+SW Ajax WooCommerce Search - Ajax search - Imported
+
+
+
+---pt-ocdi/after_import---
+

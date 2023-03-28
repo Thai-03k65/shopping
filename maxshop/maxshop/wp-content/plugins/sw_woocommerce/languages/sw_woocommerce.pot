@@ -1,0 +1,1416 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SW Woocommerce\n"
+"POT-Creation-Date: 2020-07-31 09:06+0700\n"
+"PO-Revision-Date: 2016-08-05 11:55+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;esc_html__;esc_html_e;"
+"esc_attr__;esc_attr_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/sw-widgets.php:98
+msgid "Quick View "
+msgstr ""
+
+#: includes/sw-widgets.php:180
+msgid "Sale price time"
+msgstr ""
+
+#: includes/sw-widgets.php:181
+msgid "From g:i"
+msgstr ""
+
+#: includes/sw-widgets.php:182
+msgid "To g:i"
+msgstr ""
+
+#: includes/sw-widgets.php:256
+msgid "Out Stock"
+msgstr ""
+
+#: includes/sw-widgets.php:259
+msgid "New"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:19 includes/sw-widgets/sw-brand.php:72
+msgid "Sw Brand"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:25
+msgid "Sw brand widget"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:58
+msgid " Brand Categories"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:58
+msgid "Brand Category"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:65
+#: includes/sw-widgets/sw-slider-countdown-widget.php:82
+#: includes/sw-widgets/sw-slider-widget.php:50
+#: includes/themes/shortcodes/countdown.php:9
+#: includes/themes/sw-countdown-slider/countdown-mobile.php:8
+#: includes/themes/sw-countdown-slider/countdown.php:6
+#: includes/themes/sw-countdown-slider/countdown1.php:6
+#: includes/themes/sw-countdown-slider/tab-countdownt-2.php:6
+#: includes/themes/sw-countdown-slider/tab-countdownt.php:7
+#: includes/themes/sw-slider/default.php:9
+#: includes/themes/sw-slider/theme-mobile.php:10
+#: includes/themes/sw-woo-tab-slider/default.php:39
+#: includes/visual-map.php:82 shortcodes/sw-shortcodes.php:104
+#: shortcodes/sw-shortcodes.php:341
+msgid "All Categories"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:76
+#: includes/sw-widgets/sw-category-slider-widget.php:97
+#: includes/sw-widgets/sw-slider-countdown-widget.php:91
+#: includes/sw-widgets/sw-slider-widget.php:59
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:68
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:65
+#: includes/visual-map.php:92 includes/visual-map.php:159
+#: includes/visual-map.php:205 includes/visual-map.php:275
+#: includes/visual-map.php:332 shortcodes/sw-shortcodes.php:115
+#: shortcodes/sw-shortcodes.php:352
+msgid "SW Shortcodes"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:82 includes/sw-widgets/sw-brand.php:85
+#: includes/sw-widgets/sw-brand.php:734
+#: includes/sw-widgets/sw-category-slider-widget.php:103
+#: includes/sw-widgets/sw-category-slider-widget.php:107
+#: includes/sw-widgets/sw-category-slider-widget.php:835
+#: includes/sw-widgets/sw-related-upsell-widget.php:163
+#: includes/sw-widgets/sw-slider-countdown-widget.php:97
+#: includes/sw-widgets/sw-slider-countdown-widget.php:101
+#: includes/sw-widgets/sw-slider-countdown-widget.php:619
+#: includes/sw-widgets/sw-slider-widget.php:65
+#: includes/sw-widgets/sw-slider-widget.php:68
+#: includes/sw-widgets/sw-slider-widget.php:582
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:74
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:78
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:705
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:71
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:74
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:708
+#: includes/visual-map.php:99 includes/visual-map.php:163
+#: includes/visual-map.php:212 includes/visual-map.php:251
+#: includes/visual-map.php:339 includes/widgets.php:47
+#: shortcodes/sw-shortcodes.php:121 shortcodes/sw-shortcodes.php:125
+#: shortcodes/sw-shortcodes.php:358 shortcodes/sw-shortcodes.php:362
+msgid "Title"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:91
+#: includes/sw-widgets/sw-category-slider-widget.php:856
+#: includes/sw-widgets/sw-slider-countdown-widget.php:155
+#: includes/sw-widgets/sw-slider-countdown-widget.php:680
+#: includes/sw-widgets/sw-slider-widget.php:102
+#: includes/sw-widgets/sw-slider-widget.php:620
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:94
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:719
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:114
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:715
+#: includes/visual-map.php:171 shortcodes/sw-shortcodes.php:165
+#: shortcodes/sw-shortcodes.php:394
+msgid "Category"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:94
+#: includes/sw-widgets/sw-category-slider-widget.php:86
+#: includes/sw-widgets/sw-category-slider-widget.php:145
+#: includes/sw-widgets/sw-slider-countdown-widget.php:159
+#: includes/sw-widgets/sw-slider-widget.php:105
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:98
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:117
+#: includes/visual-map.php:174 shortcodes/sw-shortcodes.php:169
+#: shortcodes/sw-shortcodes.php:398
+msgid "Select Categories"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:100 includes/sw-widgets/sw-brand.php:103
+#: includes/sw-widgets/sw-category-slider-widget.php:183
+#: includes/sw-widgets/sw-slider-countdown-widget.php:165
+#: includes/sw-widgets/sw-slider-countdown-widget.php:169
+#: includes/sw-widgets/sw-slider-widget.php:111
+#: includes/sw-widgets/sw-slider-widget.php:114
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:114
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:118
+#: includes/visual-map.php:180 includes/visual-map.php:183
+#: shortcodes/sw-shortcodes.php:189 shortcodes/sw-shortcodes.php:193
+#: shortcodes/sw-shortcodes.php:404 shortcodes/sw-shortcodes.php:408
+msgid "Order By"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:109 includes/sw-widgets/sw-brand.php:112
+#: includes/sw-widgets/sw-brand.php:767
+#: includes/sw-widgets/sw-slider-countdown-widget.php:175
+#: includes/sw-widgets/sw-slider-countdown-widget.php:179
+#: includes/sw-widgets/sw-slider-countdown-widget.php:707
+#: includes/sw-widgets/sw-slider-widget.php:120
+#: includes/sw-widgets/sw-slider-widget.php:123
+#: includes/sw-widgets/sw-slider-widget.php:647
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:124
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:128
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:767
+#: includes/visual-map.php:189 includes/visual-map.php:192
+#: shortcodes/sw-shortcodes.php:199 shortcodes/sw-shortcodes.php:203
+#: shortcodes/sw-shortcodes.php:414 shortcodes/sw-shortcodes.php:418
+msgid "Order"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:118 includes/sw-widgets/sw-brand.php:121
+#: includes/sw-widgets/sw-slider-widget.php:129
+#: includes/sw-widgets/sw-slider-widget.php:132
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:134
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:138
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:132
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:135
+#: shortcodes/sw-shortcodes.php:209 shortcodes/sw-shortcodes.php:213
+#: shortcodes/sw-shortcodes.php:424 shortcodes/sw-shortcodes.php:428
+msgid "Number Of Post"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:127 includes/sw-widgets/sw-brand.php:130
+#: includes/sw-widgets/sw-category-slider-widget.php:155
+#: includes/sw-widgets/sw-category-slider-widget.php:159
+#: includes/sw-widgets/sw-slider-countdown-widget.php:195
+#: includes/sw-widgets/sw-slider-countdown-widget.php:199
+#: includes/sw-widgets/sw-slider-widget.php:138
+#: includes/sw-widgets/sw-slider-widget.php:141
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:144
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:148
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:141
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:144
+#: shortcodes/sw-shortcodes.php:219 shortcodes/sw-shortcodes.php:223
+#: shortcodes/sw-shortcodes.php:434 shortcodes/sw-shortcodes.php:438
+msgid "Number row per column"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:140 includes/sw-widgets/sw-brand.php:818
+#: includes/sw-widgets/sw-category-slider-widget.php:197
+#: includes/sw-widgets/sw-category-slider-widget.php:891
+#: includes/sw-widgets/sw-related-upsell-widget.php:193
+#: includes/sw-widgets/sw-slider-countdown-widget.php:205
+#: includes/sw-widgets/sw-slider-countdown-widget.php:758
+#: includes/sw-widgets/sw-slider-widget.php:147
+#: includes/sw-widgets/sw-slider-widget.php:699
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:164
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:819
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:798
+#: shortcodes/sw-shortcodes.php:229 shortcodes/sw-shortcodes.php:444
+msgid "Number of Columns >1200px: "
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:143
+#: includes/sw-widgets/sw-category-slider-widget.php:201
+#: includes/sw-widgets/sw-slider-countdown-widget.php:209
+#: includes/sw-widgets/sw-slider-widget.php:150
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:168
+#: shortcodes/sw-shortcodes.php:233 shortcodes/sw-shortcodes.php:448
+msgid "Number of Columns >1200px:"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:153 includes/sw-widgets/sw-brand.php:156
+#: includes/sw-widgets/sw-category-slider-widget.php:211
+#: includes/sw-widgets/sw-category-slider-widget.php:215
+#: includes/sw-widgets/sw-slider-countdown-widget.php:215
+#: includes/sw-widgets/sw-slider-countdown-widget.php:219
+#: includes/sw-widgets/sw-slider-widget.php:156
+#: includes/sw-widgets/sw-slider-widget.php:159
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:174
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:178
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:171
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:174
+#: shortcodes/sw-shortcodes.php:239 shortcodes/sw-shortcodes.php:243
+#: shortcodes/sw-shortcodes.php:454 shortcodes/sw-shortcodes.php:458
+msgid "Number of Columns on 992px to 1199px:"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:166 includes/sw-widgets/sw-brand.php:169
+#: includes/sw-widgets/sw-category-slider-widget.php:225
+#: includes/sw-widgets/sw-category-slider-widget.php:229
+#: includes/sw-widgets/sw-slider-countdown-widget.php:225
+#: includes/sw-widgets/sw-slider-countdown-widget.php:229
+#: includes/sw-widgets/sw-slider-widget.php:165
+#: includes/sw-widgets/sw-slider-widget.php:168
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:184
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:188
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:183
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:186
+#: shortcodes/sw-shortcodes.php:249 shortcodes/sw-shortcodes.php:253
+#: shortcodes/sw-shortcodes.php:464 shortcodes/sw-shortcodes.php:468
+msgid "Number of Columns on 768px to 991px:"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:179 includes/sw-widgets/sw-brand.php:182
+#: includes/sw-widgets/sw-category-slider-widget.php:239
+#: includes/sw-widgets/sw-category-slider-widget.php:243
+#: includes/sw-widgets/sw-slider-countdown-widget.php:235
+#: includes/sw-widgets/sw-slider-countdown-widget.php:239
+#: includes/sw-widgets/sw-slider-widget.php:174
+#: includes/sw-widgets/sw-slider-widget.php:177
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:194
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:198
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:195
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:198
+#: shortcodes/sw-shortcodes.php:259 shortcodes/sw-shortcodes.php:263
+#: shortcodes/sw-shortcodes.php:474 shortcodes/sw-shortcodes.php:478
+msgid "Number of Columns on 480px to 767px:"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:192 includes/sw-widgets/sw-brand.php:195
+#: includes/sw-widgets/sw-category-slider-widget.php:253
+#: includes/sw-widgets/sw-category-slider-widget.php:257
+#: includes/sw-widgets/sw-slider-countdown-widget.php:245
+#: includes/sw-widgets/sw-slider-countdown-widget.php:249
+#: includes/sw-widgets/sw-slider-widget.php:183
+#: includes/sw-widgets/sw-slider-widget.php:186
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:204
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:208
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:207
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:210
+#: shortcodes/sw-shortcodes.php:269 shortcodes/sw-shortcodes.php:273
+#: shortcodes/sw-shortcodes.php:484 shortcodes/sw-shortcodes.php:488
+msgid "Number of Columns in 480px or less than:"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:205 includes/sw-widgets/sw-brand.php:940
+#: includes/sw-widgets/sw-category-slider-widget.php:267
+#: includes/sw-widgets/sw-category-slider-widget.php:1013
+#: includes/sw-widgets/sw-related-upsell-widget.php:315
+#: includes/sw-widgets/sw-slider-countdown-widget.php:255
+#: includes/sw-widgets/sw-slider-countdown-widget.php:880
+#: includes/sw-widgets/sw-slider-widget.php:192
+#: includes/sw-widgets/sw-slider-widget.php:821
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:214
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:941
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:219
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:920
+#: shortcodes/sw-shortcodes.php:279 shortcodes/sw-shortcodes.php:494
+msgid "Speed"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:208
+#: includes/sw-widgets/sw-category-slider-widget.php:271
+#: includes/sw-widgets/sw-slider-countdown-widget.php:259
+#: includes/sw-widgets/sw-slider-widget.php:195
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:218
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:222
+#: shortcodes/sw-shortcodes.php:283 shortcodes/sw-shortcodes.php:498
+msgid "Speed Of Slide"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:214 includes/sw-widgets/sw-brand.php:217
+#: includes/sw-widgets/sw-brand.php:918
+#: includes/sw-widgets/sw-category-slider-widget.php:281
+#: includes/sw-widgets/sw-category-slider-widget.php:285
+#: includes/sw-widgets/sw-category-slider-widget.php:991
+#: includes/sw-widgets/sw-related-upsell-widget.php:293
+#: includes/sw-widgets/sw-slider-countdown-widget.php:265
+#: includes/sw-widgets/sw-slider-countdown-widget.php:269
+#: includes/sw-widgets/sw-slider-countdown-widget.php:858
+#: includes/sw-widgets/sw-slider-widget.php:201
+#: includes/sw-widgets/sw-slider-widget.php:204
+#: includes/sw-widgets/sw-slider-widget.php:799
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:224
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:228
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:919
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:231
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:234
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:898
+#: shortcodes/sw-shortcodes.php:289 shortcodes/sw-shortcodes.php:293
+#: shortcodes/sw-shortcodes.php:504 shortcodes/sw-shortcodes.php:508
+msgid "Auto Play"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:223 includes/sw-widgets/sw-brand.php:226
+#: includes/sw-widgets/sw-brand.php:933
+#: includes/sw-widgets/sw-category-slider-widget.php:295
+#: includes/sw-widgets/sw-category-slider-widget.php:299
+#: includes/sw-widgets/sw-category-slider-widget.php:1006
+#: includes/sw-widgets/sw-related-upsell-widget.php:308
+#: includes/sw-widgets/sw-slider-countdown-widget.php:275
+#: includes/sw-widgets/sw-slider-countdown-widget.php:279
+#: includes/sw-widgets/sw-slider-countdown-widget.php:873
+#: includes/sw-widgets/sw-slider-widget.php:210
+#: includes/sw-widgets/sw-slider-widget.php:213
+#: includes/sw-widgets/sw-slider-widget.php:814
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:234
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:238
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:934
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:243
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:246
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:913
+#: shortcodes/sw-shortcodes.php:299 shortcodes/sw-shortcodes.php:303
+#: shortcodes/sw-shortcodes.php:514 shortcodes/sw-shortcodes.php:518
+msgid "Interval"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:232 includes/sw-widgets/sw-brand.php:235
+#: includes/sw-widgets/sw-category-slider-widget.php:309
+#: includes/sw-widgets/sw-category-slider-widget.php:313
+#: includes/sw-widgets/sw-slider-countdown-widget.php:285
+#: includes/sw-widgets/sw-slider-countdown-widget.php:289
+#: includes/sw-widgets/sw-slider-widget.php:219
+#: includes/sw-widgets/sw-slider-widget.php:222
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:244
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:248
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:267
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:270
+msgid "Layout"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:241 includes/sw-widgets/sw-brand.php:244
+#: includes/sw-widgets/sw-brand.php:948
+#: includes/sw-widgets/sw-category-slider-widget.php:319
+#: includes/sw-widgets/sw-category-slider-widget.php:323
+#: includes/sw-widgets/sw-category-slider-widget.php:1021
+#: includes/sw-widgets/sw-related-upsell-widget.php:323
+#: includes/sw-widgets/sw-slider-countdown-widget.php:295
+#: includes/sw-widgets/sw-slider-countdown-widget.php:299
+#: includes/sw-widgets/sw-slider-countdown-widget.php:888
+#: includes/sw-widgets/sw-slider-widget.php:228
+#: includes/sw-widgets/sw-slider-widget.php:231
+#: includes/sw-widgets/sw-slider-widget.php:829
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:254
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:258
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:949
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:255
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:258
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:928
+#: shortcodes/sw-shortcodes.php:321 shortcodes/sw-shortcodes.php:325
+#: shortcodes/sw-shortcodes.php:524 shortcodes/sw-shortcodes.php:528
+msgid "Total Items Slided"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:306 includes/sw-widgets/sw-brand.php:379
+#: includes/sw-widgets/sw-brand.php:488
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:310 includes/sw-widgets/sw-brand.php:384
+#: includes/sw-widgets/sw-category-slider-widget.php:389
+#: includes/sw-widgets/sw-category-slider-widget.php:463
+msgid "Upload/Add image"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:311 includes/sw-widgets/sw-brand.php:385
+#: includes/sw-widgets/sw-category-slider-widget.php:390
+#: includes/sw-widgets/sw-category-slider-widget.php:464
+msgid "Remove image"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:335 includes/sw-widgets/sw-brand.php:409
+#: includes/sw-widgets/sw-category-slider-widget.php:414
+#: includes/sw-widgets/sw-category-slider-widget.php:488
+msgid "Choose an image"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:337 includes/sw-widgets/sw-brand.php:411
+#: includes/sw-widgets/sw-category-slider-widget.php:416
+#: includes/sw-widgets/sw-category-slider-widget.php:490
+msgid "Use image"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:457
+#: includes/sw-widgets/sw-slider-countdown-widget.php:141
+#: shortcodes/sw-shortcodes.php:129
+msgid "Image"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:740
+msgid "Category ID"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:746
+#: includes/sw-widgets/sw-category-slider-widget.php:869
+#: includes/sw-widgets/sw-slider-countdown-widget.php:686
+#: includes/sw-widgets/sw-slider-widget.php:626
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:746
+msgid "Orderby"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:773
+#: includes/sw-widgets/sw-slider-countdown-widget.php:713
+#: includes/sw-widgets/sw-slider-widget.php:653
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:773
+#: includes/visual-map.php:236
+msgid "Descending"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:776
+#: includes/sw-widgets/sw-slider-countdown-widget.php:716
+#: includes/sw-widgets/sw-slider-widget.php:656
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:776
+#: includes/visual-map.php:237
+msgid "Ascending"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:782
+#: includes/sw-widgets/sw-category-slider-widget.php:862
+#: includes/sw-widgets/sw-related-upsell-widget.php:177
+#: includes/sw-widgets/sw-slider-countdown-widget.php:722
+#: includes/sw-widgets/sw-slider-widget.php:662
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:782
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:753
+msgid "Number of Posts"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:789
+#: includes/sw-widgets/sw-related-upsell-widget.php:184
+msgid "Excerpt length (in words): "
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:797
+#: includes/sw-widgets/sw-slider-countdown-widget.php:737
+#: includes/sw-widgets/sw-slider-widget.php:678
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:790
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:769
+msgid "Number row per column:  "
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:838
+#: includes/sw-widgets/sw-category-slider-widget.php:911
+#: includes/sw-widgets/sw-related-upsell-widget.php:213
+#: includes/sw-widgets/sw-slider-countdown-widget.php:778
+#: includes/sw-widgets/sw-slider-widget.php:719
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:839
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:818
+msgid "Number of Columns on 992px to 1199px: "
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:858
+#: includes/sw-widgets/sw-category-slider-widget.php:931
+#: includes/sw-widgets/sw-related-upsell-widget.php:233
+#: includes/sw-widgets/sw-slider-countdown-widget.php:798
+#: includes/sw-widgets/sw-slider-widget.php:739
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:859
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:838
+msgid "Number of Columns on 768px to 991px: "
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:878
+#: includes/sw-widgets/sw-category-slider-widget.php:951
+#: includes/sw-widgets/sw-related-upsell-widget.php:253
+#: includes/sw-widgets/sw-slider-countdown-widget.php:818
+#: includes/sw-widgets/sw-slider-widget.php:759
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:879
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:858
+msgid "Number of Columns on 480px to 767px: "
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:898
+#: includes/sw-widgets/sw-category-slider-widget.php:971
+#: includes/sw-widgets/sw-related-upsell-widget.php:273
+#: includes/sw-widgets/sw-slider-countdown-widget.php:838
+#: includes/sw-widgets/sw-slider-widget.php:779
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:899
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:878
+msgid "Number of Columns in 480px or less than: "
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:924
+#: includes/sw-widgets/sw-category-slider-widget.php:997
+#: includes/sw-widgets/sw-related-upsell-widget.php:299
+#: includes/sw-widgets/sw-slider-countdown-widget.php:864
+#: includes/sw-widgets/sw-slider-widget.php:805
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:925
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:904
+msgid "False"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:927
+#: includes/sw-widgets/sw-category-slider-widget.php:1000
+#: includes/sw-widgets/sw-related-upsell-widget.php:302
+#: includes/sw-widgets/sw-slider-countdown-widget.php:867
+#: includes/sw-widgets/sw-slider-widget.php:808
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:928
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:907
+msgid "True"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:955
+#: includes/sw-widgets/sw-category-slider-widget.php:1028
+#: includes/sw-widgets/sw-related-upsell-widget.php:330
+#: includes/sw-widgets/sw-slider-countdown-widget.php:895
+#: includes/sw-widgets/sw-slider-widget.php:836
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:956
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:952
+#: includes/visual-map.php:288 includes/visual-map.php:345
+#: includes/visual-map.php:357 includes/widgets.php:53
+msgid "Template"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:962
+#: includes/sw-widgets/sw-category-slider-widget.php:1035
+#: includes/sw-widgets/sw-slider-widget.php:843
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:963
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:959
+#: includes/visual-map.php:292 includes/visual-map.php:361
+#: includes/widgets.php:59 shortcodes/sw-shortcodes.php:311
+msgid "Default"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:966
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:963
+msgid "Layout 1"
+msgstr ""
+
+#: includes/sw-widgets/sw-brand.php:970
+#: includes/sw-widgets/sw-category-slider-widget.php:1043
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:967
+msgid "Layout Mobile"
+msgstr ""
+
+#: includes/sw-widgets/sw-category-slider-widget.php:17
+msgid "Sw Woo Categories Slider"
+msgstr ""
+
+#: includes/sw-widgets/sw-category-slider-widget.php:23
+msgid "Sw Woo Categories Slider widget"
+msgstr ""
+
+#: includes/sw-widgets/sw-category-slider-widget.php:93
+msgid "SW Woocommerce Categories Slider"
+msgstr ""
+
+#: includes/sw-widgets/sw-category-slider-widget.php:113
+#: includes/sw-widgets/sw-category-slider-widget.php:842
+#: includes/sw-widgets/sw-slider-countdown-widget.php:107
+#: includes/sw-widgets/sw-slider-widget.php:74
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:80
+msgid "Product Title Length"
+msgstr ""
+
+#: includes/sw-widgets/sw-category-slider-widget.php:117
+#: includes/sw-widgets/sw-slider-countdown-widget.php:111
+#: includes/sw-widgets/sw-slider-widget.php:78
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:84
+msgid ""
+"Choose Product Title Length if you want to trim word, leave 0 to not trim "
+"word"
+msgstr ""
+
+#: includes/sw-widgets/sw-category-slider-widget.php:127
+#: includes/sw-widgets/sw-category-slider-widget.php:131
+msgid "Desciption"
+msgstr ""
+
+#: includes/sw-widgets/sw-category-slider-widget.php:141
+msgid "Categories"
+msgstr ""
+
+#: includes/sw-widgets/sw-category-slider-widget.php:169
+#: includes/sw-widgets/sw-slider-countdown-widget.php:185
+#: includes/sw-widgets/sw-slider-countdown-widget.php:189
+msgid "Number Of Products"
+msgstr ""
+
+#: includes/sw-widgets/sw-category-slider-widget.php:173
+msgid "Number of products for layout 2"
+msgstr ""
+
+#: includes/sw-widgets/sw-category-slider-widget.php:187
+msgid "Order by for layout 2"
+msgstr ""
+
+#: includes/sw-widgets/sw-category-slider-widget.php:385
+#: includes/sw-widgets/sw-category-slider-widget.php:458
+msgid "Thumbnail 1"
+msgstr ""
+
+#: includes/sw-widgets/sw-category-slider-widget.php:584
+msgid "There isn't product in this category"
+msgstr ""
+
+#: includes/sw-widgets/sw-category-slider-widget.php:849
+#: includes/sw-widgets/sw-related-upsell-widget.php:169
+#: includes/sw-widgets/sw-slider-countdown-widget.php:645
+#: includes/sw-widgets/sw-slider-widget.php:93
+#: includes/sw-widgets/sw-slider-widget.php:96
+#: includes/sw-widgets/sw-slider-widget.php:608
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:84
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:88
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:712
+#: includes/visual-map.php:114 includes/visual-map.php:116
+msgid "Description"
+msgstr ""
+
+#: includes/sw-widgets/sw-category-slider-widget.php:1039
+msgid "Layout Category Ajax"
+msgstr ""
+
+#: includes/sw-widgets/sw-category-slider-widget.php:1047
+msgid "Layout Mobile2"
+msgstr ""
+
+#: includes/sw-widgets/sw-category-slider-widget.php:1051
+msgid "Layout Mobile Ajax"
+msgstr ""
+
+#: includes/sw-widgets/sw-related-upsell-widget.php:15
+msgid "Sw Woocommerce Related & Upsell Slider"
+msgstr ""
+
+#: includes/sw-widgets/sw-related-upsell-widget.php:21
+msgid "Sw Woocommerce Related & Upsell Slider widget"
+msgstr ""
+
+#: includes/sw-widgets/sw-related-upsell-widget.php:52
+#: includes/sw-widgets/sw-slider-countdown-widget.php:378
+#: includes/sw-widgets/sw-slider-widget.php:325
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:484
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:340
+msgid "Please active woocommerce plugin or install woomcommerce plugin first"
+msgstr ""
+
+#: includes/sw-widgets/sw-related-upsell-widget.php:337
+msgid "Related Slider"
+msgstr ""
+
+#: includes/sw-widgets/sw-related-upsell-widget.php:341
+msgid "Upsell Slider"
+msgstr ""
+
+#: includes/sw-widgets/sw-related-upsell-widget.php:345
+msgid "Tab Related & Upsell Slider"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-countdown-widget.php:18
+msgid "Sw Woo Slider Countdown"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-countdown-widget.php:24
+msgid "Sw Woo Slider Countdown Widget"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-countdown-widget.php:67
+msgid "All Products"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-countdown-widget.php:87
+msgid "SW Woocommerce Countdown Slider"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-countdown-widget.php:117
+#: includes/sw-widgets/sw-slider-widget.php:84 includes/visual-map.php:107
+#: includes/visual-map.php:220
+msgid "Image icon"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-countdown-widget.php:121
+#: includes/sw-widgets/sw-slider-widget.php:87 includes/visual-map.php:110
+#: includes/visual-map.php:223
+msgid "Select image icon"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-countdown-widget.php:127
+msgid "Select Product"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-countdown-widget.php:131
+msgid "Select Product for layout countdown 1"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-countdown-widget.php:145
+msgid "Select image for layout countdown 1"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-countdown-widget.php:625
+#: includes/sw-widgets/sw-slider-widget.php:588
+msgid "Style Title"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-countdown-widget.php:631
+#: includes/sw-widgets/sw-slider-widget.php:594 includes/visual-map.php:349
+msgid "Style 1"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-countdown-widget.php:634
+#: includes/sw-widgets/sw-slider-widget.php:597 includes/visual-map.php:350
+msgid "Style 2"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-countdown-widget.php:637
+#: includes/sw-widgets/sw-slider-widget.php:600 includes/visual-map.php:351
+msgid "Style 3"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-countdown-widget.php:640
+#: includes/sw-widgets/sw-slider-widget.php:603 includes/visual-map.php:352
+msgid "Style 4"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-countdown-widget.php:652
+msgid "Product Select"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-countdown-widget.php:673
+#: includes/sw-widgets/sw-slider-widget.php:614
+msgid "Image Attachment ID"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-countdown-widget.php:729
+#: includes/sw-widgets/sw-slider-widget.php:669
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:760
+msgid "Title length (in words): "
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-countdown-widget.php:902
+msgid "Layout Default"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-countdown-widget.php:906
+msgid "Layout Style2"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-countdown-widget.php:910
+msgid "Layout Tab Countdown"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-countdown-widget.php:914
+msgid "Layout Tab Countdown2"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-countdown-widget.php:918
+msgid "Layout Countdown Mobile"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-widget.php:18
+msgid "Sw Woo Slider"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-widget.php:24
+msgid "Sw Woo Slider widget"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-widget.php:55
+#: shortcodes/sw-shortcodes.php:111 shortcodes/sw-shortcodes.php:348
+msgid "SW Woocommerce Slider"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-widget.php:847
+msgid "Featured Slider"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-widget.php:851
+msgid "Top Rated Slider"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-widget.php:855
+msgid "Best Selling Slider"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-widget.php:859
+msgid "Child Category Style 1"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-widget.php:863
+msgid "Child Category Style 2"
+msgstr ""
+
+#: includes/sw-widgets/sw-slider-widget.php:867
+msgid "Best Sales Mobile"
+msgstr ""
+
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:18
+msgid "Sw Woo Tab Category Slider"
+msgstr ""
+
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:24
+msgid "Sw Woo Tab Category Slider widget"
+msgstr ""
+
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:64
+msgid "SW Woocommerce Tab Category Slider"
+msgstr ""
+
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:104
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:108
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:123
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:126
+msgid "Select Order Product"
+msgstr ""
+
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:154
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:153
+msgid "Tab Active"
+msgstr ""
+
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:158
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:156
+msgid "Select tab active"
+msgstr ""
+
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:457
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:487
+msgid "There is not product on this tab"
+msgstr ""
+
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:725
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:721
+msgid "Select Order"
+msgstr ""
+
+#: includes/sw-widgets/sw-woo-tab-category-slider-widget.php:810
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:789
+msgid "Tab active: "
+msgstr ""
+
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:18
+msgid "Sw Woo Tab Slider"
+msgstr ""
+
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:24
+msgid "Sw Woo Tab Slider widget"
+msgstr ""
+
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:61
+msgid "SW Woocommerce Tab Slider"
+msgstr ""
+
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:90
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:93
+#: includes/visual-map.php:126
+msgid "Banner Images"
+msgstr ""
+
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:102
+msgid "Banner Links"
+msgstr ""
+
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:105
+msgid "Each banner link seperate by commas."
+msgstr ""
+
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:162
+msgid "Number of Columns desktop "
+msgstr ""
+
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:165
+msgid "Number of Columns desktop"
+msgstr ""
+
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:741
+msgid "Banner_links"
+msgstr ""
+
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:747
+msgid "Image attachment ID"
+msgstr ""
+
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:935
+msgid "Show More Category"
+msgstr ""
+
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:942
+msgid "Yes"
+msgstr ""
+
+#: includes/sw-widgets/sw-woo-tab-slider-widget.php:946
+msgid "No"
+msgstr ""
+
+#: includes/sw-woocommerce-shortcodes.php:94
+#: includes/themes/sw-slider/childcat2.php:75
+#: includes/themes/sw-slider/childcat2.php:126
+msgid " Review(s)"
+msgstr ""
+
+#: includes/sw-woocommerce-shortcodes.php:220
+msgid "Add to Compare"
+msgstr ""
+
+#: includes/sw-woocommerce-shortcodes.php:327
+#: includes/sw-woocommerce-shortcodes.php:587
+msgid "Previous"
+msgstr ""
+
+#: includes/sw-woocommerce-shortcodes.php:328
+#: includes/sw-woocommerce-shortcodes.php:588
+msgid "Next"
+msgstr ""
+
+#: includes/themes/category-slider/category_ajax.php:5
+#: includes/themes/category-slider/default.php:6
+#: includes/themes/category-slider/theme-mobile.php:7
+#: includes/themes/category-slider/theme-mobile2.php:7
+msgid "Please select a category for SW Woocommerce Category Slider. Layout "
+msgstr ""
+
+#: includes/themes/category-slider/category_mobile_ajax.php:32
+msgid "More Categories"
+msgstr ""
+
+#: includes/themes/category-slider/category_mobile_ajax.php:32
+msgid "All Categories Loaded"
+msgstr ""
+
+#: includes/themes/minicart-ajax/minicart-ajax-default.php:9
+#: includes/themes/minicart-ajax/minicart-ajax.php:10
+msgid "My Cart"
+msgstr ""
+
+#: includes/themes/minicart-ajax/minicart-ajax-default.php:10
+#: includes/themes/minicart-ajax/minicart-ajax-default.php:46
+#: includes/themes/minicart-ajax/minicart-ajax-style1.php:10
+#: includes/themes/minicart-ajax/minicart-ajax-style1.php:47
+#: includes/themes/minicart-ajax/minicart-ajax-style2.php:9
+#: includes/themes/minicart-ajax/minicart-ajax-style2.php:45
+#: includes/themes/minicart-ajax/minicart-ajax.php:11
+#: includes/themes/minicart-ajax/minicart-ajax.php:49
+msgid "View your shopping cart"
+msgstr ""
+
+#: includes/themes/minicart-ajax/minicart-ajax-default.php:45
+#: includes/themes/minicart-ajax/minicart-ajax-style1.php:46
+#: includes/themes/minicart-ajax/minicart-ajax-style2.php:44
+#: includes/themes/minicart-ajax/minicart-ajax.php:48
+msgid "Remove this item"
+msgstr ""
+
+#: includes/themes/minicart-ajax/minicart-ajax-default.php:69
+#: includes/themes/minicart-ajax/minicart-ajax-style1.php:88
+#: includes/themes/minicart-ajax/minicart-ajax-style2.php:86
+#: includes/themes/minicart-ajax/minicart-ajax.php:72
+msgid "Total:"
+msgstr ""
+
+#: includes/themes/minicart-ajax/minicart-ajax-default.php:73
+#: includes/themes/minicart-ajax/minicart-ajax-style1.php:92
+#: includes/themes/minicart-ajax/minicart-ajax-style2.php:90
+#: includes/themes/minicart-ajax/minicart-ajax.php:76
+msgid "Go To Cart"
+msgstr ""
+
+#: includes/themes/minicart-ajax/minicart-ajax-default.php:74
+#: includes/themes/minicart-ajax/minicart-ajax-style1.php:93
+#: includes/themes/minicart-ajax/minicart-ajax-style2.php:91
+#: includes/themes/minicart-ajax/minicart-ajax.php:77
+msgid "Check Out"
+msgstr ""
+
+#: includes/themes/minicart-ajax/minicart-ajax-mobile.php:9
+msgid "Cart"
+msgstr ""
+
+#: includes/themes/minicart-ajax/minicart-ajax-style1.php:9
+msgid "Shopping Cart"
+msgstr ""
+
+#: includes/themes/minicart-ajax/minicart-ajax-style1.php:10
+#: includes/themes/minicart-ajax/minicart-ajax-style2.php:9
+msgid "item(s)"
+msgstr ""
+
+#: includes/themes/shortcodes/childcate-left.php:9
+#: includes/themes/shortcodes/childcate.php:9
+msgid "Please select a category for SW Woo Slider. Layout "
+msgstr ""
+
+#: includes/themes/shortcodes/childcate-left.php:66
+#: includes/themes/sw-slider/childcat1.php:65
+msgid "View more..."
+msgstr ""
+
+#: includes/themes/shortcodes/childcate-left.php:112
+#: includes/themes/shortcodes/childcate.php:113
+#: includes/themes/shortcodes/default.php:83
+#: includes/themes/sw-slider/bestsales-mobile.php:90
+#: includes/themes/sw-slider/featured-mobile.php:101
+#: includes/themes/sw-slider/theme-mobile.php:81
+msgid "There is not product in this category"
+msgstr ""
+
+#: includes/themes/shortcodes/countdown.php:108
+msgid "There is not product countdown in this category"
+msgstr ""
+
+#: includes/themes/sw-brands/layout1.php:21
+msgid "View All"
+msgstr ""
+
+#: includes/themes/sw-countdown-slider/countdown-mobile.php:47
+#: includes/themes/sw-woo-tab-slider/theme-mobile.php:12
+msgid "Woocommerce Shop"
+msgstr ""
+
+#: includes/themes/sw-countdown-slider/countdown-mobile.php:47
+#: includes/themes/sw-reup-slider/related-mobile.php:33
+#: includes/themes/sw-slider/bestsales-mobile.php:46
+#: includes/themes/sw-woo-tab-slider/theme-mobile.php:12
+msgid "View all"
+msgstr ""
+
+#: includes/themes/sw-countdown-slider/tab-countdownt-2.php:98
+#: includes/themes/sw-countdown-slider/tab-countdownt.php:117
+msgid "Sale"
+msgstr ""
+
+#: includes/themes/sw-reup-slider/tab_reup.php:22
+msgid "Related Products"
+msgstr ""
+
+#: includes/themes/sw-reup-slider/tab_reup.php:27
+msgid "Upsell Products"
+msgstr ""
+
+#: includes/themes/sw-reup-slider/tab_reup.php:48
+msgid "This product not have upsell or related!"
+msgstr ""
+
+#: includes/themes/sw-slider/bestsales-mobile.php:9
+#: includes/themes/sw-slider/bestsales.php:8
+msgid "Best Sales"
+msgstr ""
+
+#: includes/themes/sw-slider/childcat.php:12
+#: includes/themes/sw-slider/childcat1.php:11
+#: includes/themes/sw-slider/childcat2.php:5
+msgid "Please select a category for SW Woocommerce Slider. Layout "
+msgstr ""
+
+#: includes/themes/sw-slider/childcat.php:48
+msgid "Toggle navigation"
+msgstr ""
+
+#: includes/themes/sw-slider/featured-mobile.php:8
+#: includes/themes/sw-slider/featured.php:7
+#: includes/themes/sw-woo-tab-slider/default.php:65
+#: includes/themes/sw-woo-tab-slider/theme-mobile.php:29
+#: includes/themes/sw-woo-tab-slider/theme1.php:35
+#: includes/themes/sw-woo-tab-slider/theme1.php:113
+msgid "Featured Products"
+msgstr ""
+
+#: includes/themes/sw-slider/featured-mobile.php:95
+msgid "See more"
+msgstr ""
+
+#: includes/themes/sw-slider/featured.php:162
+msgid "View All Products"
+msgstr ""
+
+#: includes/themes/sw-slider/toprated.php:8
+msgid "Top Rated Products"
+msgstr ""
+
+#: includes/themes/sw-woo-tab-category-slider/default.php:13
+#: includes/themes/sw-woo-tab-category-slider/theme1.php:13
+msgid ""
+"Please select a category for SW Woocommerce Tab Category Slider. Layout "
+msgstr ""
+
+#: includes/themes/sw-woo-tab-slider/default.php:56
+#: includes/themes/sw-woo-tab-slider/theme1.php:26
+#: includes/themes/sw-woo-tab-slider/theme1.php:104
+msgid "Latest Products"
+msgstr ""
+
+#: includes/themes/sw-woo-tab-slider/default.php:59
+#: includes/themes/sw-woo-tab-slider/theme1.php:29
+#: includes/themes/sw-woo-tab-slider/theme1.php:107
+msgid "Top Rating Products"
+msgstr ""
+
+#: includes/themes/sw-woo-tab-slider/default.php:62
+#: includes/themes/sw-woo-tab-slider/theme1.php:32
+#: includes/themes/sw-woo-tab-slider/theme1.php:110
+msgid "Best Selling Products"
+msgstr ""
+
+#: includes/themes/sw-woo-tab-slider/theme-mobile.php:20
+msgid "New arrivals"
+msgstr ""
+
+#: includes/themes/sw-woo-tab-slider/theme-mobile.php:23
+msgid "Top Rating"
+msgstr ""
+
+#: includes/themes/sw-woo-tab-slider/theme-mobile.php:26
+msgid "Best Selling"
+msgstr ""
+
+#: includes/themes/sw-woo-tab-slider/theme1.php:63
+msgid "Hot categories"
+msgstr ""
+
+#: includes/themes/sw-woo-tab-slider/theme1.php:69
+msgid "View More..."
+msgstr ""
+
+#: includes/visual-map.php:59
+msgid "Same window"
+msgstr ""
+
+#: includes/visual-map.php:60
+msgid "New window"
+msgstr ""
+
+#: includes/visual-map.php:77
+msgid "All Categories Products"
+msgstr ""
+
+#: includes/visual-map.php:89
+msgid "Sw Banner Countdown"
+msgstr ""
+
+#: includes/visual-map.php:95
+msgid "Display Banner Countdown"
+msgstr ""
+
+#: includes/visual-map.php:101 includes/visual-map.php:165
+#: includes/visual-map.php:214 includes/visual-map.php:284
+#: includes/visual-map.php:341
+msgid ""
+"What text use as a widget title. Leave blank to use default widget title."
+msgstr ""
+
+#: includes/visual-map.php:120 includes/visual-map.php:261
+#: includes/visual-map.php:317 includes/visual-map.php:374
+#: shortcodes/sw-shortcodes.php:329 shortcodes/sw-shortcodes.php:532
+msgid "Extra class name"
+msgstr ""
+
+#: includes/visual-map.php:122 includes/visual-map.php:263
+#: includes/visual-map.php:319 includes/visual-map.php:376
+#: shortcodes/sw-shortcodes.php:331 shortcodes/sw-shortcodes.php:534
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: includes/visual-map.php:128
+msgid "Select images"
+msgstr ""
+
+#: includes/visual-map.php:132 includes/visual-map.php:134
+msgid "Countdown Date"
+msgstr ""
+
+#: includes/visual-map.php:138
+msgid "Link for banner"
+msgstr ""
+
+#: includes/visual-map.php:140
+msgid "Each URL separated by commas"
+msgstr ""
+
+#: includes/visual-map.php:155
+msgid "Sw Listing Table Product"
+msgstr ""
+
+#: includes/visual-map.php:202
+msgid "Accordion Popular Product"
+msgstr ""
+
+#: includes/visual-map.php:208
+msgid "Display accordion popular product"
+msgstr ""
+
+#: includes/visual-map.php:227
+msgid "Number of product to show"
+msgstr ""
+
+#: includes/visual-map.php:233
+msgid "Order way"
+msgstr ""
+
+#: includes/visual-map.php:239
+#, php-format
+msgid "Designates the ascending or descending order. More at %s."
+msgstr ""
+
+#: includes/visual-map.php:244
+msgid "Order by"
+msgstr ""
+
+#: includes/visual-map.php:248
+msgid "Date"
+msgstr ""
+
+#: includes/visual-map.php:249
+msgid "ID"
+msgstr ""
+
+#: includes/visual-map.php:250
+msgid "Author"
+msgstr ""
+
+#: includes/visual-map.php:252
+msgid "Modified"
+msgstr ""
+
+#: includes/visual-map.php:253
+msgid "Random"
+msgstr ""
+
+#: includes/visual-map.php:254
+msgid "Comment count"
+msgstr ""
+
+#: includes/visual-map.php:255
+msgid "Menu order"
+msgstr ""
+
+#: includes/visual-map.php:257
+#, php-format
+msgid "Select how to sort retrieved posts. More at %s."
+msgstr ""
+
+#: includes/visual-map.php:272
+msgid "SW Recommend Product"
+msgstr ""
+
+#: includes/visual-map.php:278
+msgid "Display Recommend Products"
+msgstr ""
+
+#: includes/visual-map.php:282
+msgid "Widget title"
+msgstr ""
+
+#: includes/visual-map.php:293 includes/visual-map.php:362
+msgid "Slide"
+msgstr ""
+
+#: includes/visual-map.php:295 includes/visual-map.php:364
+msgid "Select different style best sale."
+msgstr ""
+
+#: includes/visual-map.php:299
+msgid "Number of products to slide"
+msgstr ""
+
+#: includes/visual-map.php:310 includes/visual-map.php:368
+msgid "Number of products to show"
+msgstr ""
+
+#: includes/visual-map.php:329
+msgid "Best Sales Product"
+msgstr ""
+
+#: includes/visual-map.php:335
+msgid "Display Best Sales Products"
+msgstr ""
+
+#: includes/visual-map.php:347
+msgid "Select style title to show"
+msgstr ""
+
+#: includes/widgets.php:8
+msgid "Sw WooCommerce Minicart Ajax"
+msgstr ""
+
+#: includes/widgets.php:14
+msgid "Sw WooCommerce Minicart Ajax Widget"
+msgstr ""
+
+#: includes/widgets.php:63
+msgid "Minicart Ajax Style 1"
+msgstr ""
+
+#: includes/widgets.php:67
+msgid "Minicart Ajax Style 2"
+msgstr ""
+
+#: includes/widgets.php:71
+msgid "Minicart Ajax Mobile"
+msgstr ""
+
+#: shortcodes/sw-shortcodes.php:132
+msgid "Select image from media library."
+msgstr ""
+
+#: shortcodes/sw-shortcodes.php:137 shortcodes/sw-shortcodes.php:366
+msgid "Style title"
+msgstr ""
+
+#: shortcodes/sw-shortcodes.php:141 shortcodes/sw-shortcodes.php:370
+msgid "Style title 1"
+msgstr ""
+
+#: shortcodes/sw-shortcodes.php:142 shortcodes/sw-shortcodes.php:371
+msgid "Style title 2"
+msgstr ""
+
+#: shortcodes/sw-shortcodes.php:143 shortcodes/sw-shortcodes.php:372
+msgid "Style title 3"
+msgstr ""
+
+#: shortcodes/sw-shortcodes.php:144 shortcodes/sw-shortcodes.php:373
+msgid "Style title 4"
+msgstr ""
+
+#: shortcodes/sw-shortcodes.php:146 shortcodes/sw-shortcodes.php:375
+msgid ""
+"What text use as a style title. Leave blank to use default style title."
+msgstr ""
+
+#: shortcodes/sw-shortcodes.php:151 shortcodes/sw-shortcodes.php:380
+msgid "Select Icon:"
+msgstr ""
+
+#: shortcodes/sw-shortcodes.php:155 shortcodes/sw-shortcodes.php:384
+msgid "Select the icon from the list."
+msgstr ""
+
+#: shortcodes/sw-shortcodes.php:175
+msgid "Number Of Child Category"
+msgstr ""
+
+#: shortcodes/sw-shortcodes.php:179
+msgid "Number Of child category want to show."
+msgstr ""
+
+#: shortcodes/sw-shortcodes.php:307
+msgid "Layout Style"
+msgstr ""
+
+#: shortcodes/sw-shortcodes.php:312
+msgid "Child categories product"
+msgstr ""
+
+#: shortcodes/sw-shortcodes.php:313
+msgid "Left Child Cat"
+msgstr ""
+
+#: shortcodes/sw-shortcodes.php:315
+msgid "Select different style layout."
+msgstr ""
+
+#: sw-woocommerce.php:79
+msgid "days"
+msgstr ""
+
+#: sw-woocommerce.php:80
+msgid "hours"
+msgstr ""
+
+#: sw-woocommerce.php:81
+msgid "mins"
+msgstr ""
+
+#: sw-woocommerce.php:82
+msgid "secs"
+msgstr ""
+
+#: sw-woocommerce.php:115
+msgid ""
+"Sw Woocommerce is enabled but not effective. It requires WooCommerce in "
+"order to work."
+msgstr ""

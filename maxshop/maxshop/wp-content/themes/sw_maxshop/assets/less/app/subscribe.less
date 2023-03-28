@@ -1,0 +1,122 @@
+#subscribe_popup {
+	text-align: left;
+	display: none;
+	background-repeat: no-repeat;
+	background-color: #fff;
+	background-image: url( ../assets/img/newsletter.png );
+	position:relative;
+	max-width:600px;
+	.subscribe-popup-container {
+		padding: 50px 120px;
+		h2{
+			color: @body-color;
+			font-size: 30px;
+			font-weight: 700 !important;
+			text-transform: uppercase;
+			margin-bottom:17px;
+		}
+		.description{
+			font-size: 14px;
+			color: #555;
+			margin-bottom: 30px;
+		}
+		.subscribe-form {
+			margin-bottom: 15px;
+			border:1px solid lighten(@border-color, 12%);
+			max-width:390px;
+			position:relative;
+			.rtl &{
+				float:left;
+			}
+			p, input{
+				margin:0;
+			}
+			input[type="email"]{
+				padding: 0 15px;
+				height: 43px;
+				line-height: 43px;
+				overflow: hidden;
+				display: block;
+				font-size: 13px;
+				width: 350px;
+				border-radius:0;
+				border:0;
+				
+			}
+			input[type="submit"]{
+				background: url(../assets/img/icon-newsletter.png) no-repeat center center #fff;
+				position: absolute;
+				height: 43px;
+				width: 43px;
+				overflow: hidden;
+				top:0;
+				right:0;
+				text-indent:-9999px;
+				border:0;
+				border-radius:0;
+				.rtl &{
+					left:0;
+					right:auto;
+				}
+				&:before {
+					display: none;
+				}
+				&:hover {
+					opacity:0.85;
+				}
+			}
+		}
+		.subscribe-checkbox {
+			line-height: 30px;
+			clear:both;
+			.rtl &{
+				margin-left:160px;
+			}
+			input {
+				cursor: pointer;
+			}
+			label {
+				vertical-align: top;
+				line-height: 25px;
+				margin: 0;
+				font-weight: normal;
+				color: @body-color;
+			  font-weight: 500;
+				span{
+					display: inline-block;
+					vertical-align: top;
+					line-height: 20px;
+				}
+			}
+		}		
+	}
+	.subscribe-social{
+		padding: 15px 0;
+		#translucent > .background( @color, 0.7 );
+		text-align:center;
+		position:relative;
+		z-index:3;
+		margin-top: 20px;
+		h3{
+			color:#fff;
+			font-weight: 700 !important;
+			font-size:16px;
+			text-transform:uppercase;
+		}
+		> .subscribe-social-inner {
+			.revo-socials ul{
+				margin: 0;
+				> li > a{
+					display: block;
+					width: 40px;
+					height: 40px;
+					border-radius: 50%;
+					font-size: 16px;
+					line-height: 40px;
+					background: #333;
+					margin: 0 5px;
+				}
+			}
+		}
+	}
+}

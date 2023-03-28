@@ -1,0 +1,10 @@
+==== V1.0.0
+Release plugin
+
+==== v1.0.1
+ - Update translate for plugin
+
+==== v1.1.0
+ - Update translate for plugin
+ - Fix bug from last version
+ - Update Ajax for wootab slider
